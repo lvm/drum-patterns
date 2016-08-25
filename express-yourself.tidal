@@ -1,0 +1,18 @@
+-- James Gadson
+-- Express yourself
+-- 1970
+
+bps (94/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ ~ x][x ~ ~ x][~ ~ x ~][x ~ ~ x]" # perc "bd",
+       perc "[x ~ ~ x][~ ~ ~ ~][x ~ ~ x][~ ~ x ~]" # perc "bd" 
+       ],
+    slowcat[
+      perc "[~ ~ ~ ~][x ~ ~ x][~ x ~ x][~ x ~ x]" # perc "sn",
+      perc "[~ ~ ~ ~][x ~ ~ x][~ x ~ x][x ~ ~ ~]" # perc "sn"
+      ],
+    perc $ preplace (1,1) ("x(15,16)" :: Pattern String) "ch"
+    ]

@@ -1,0 +1,18 @@
+-- Clyde Stubblefield
+-- I got the feelin'
+-- 1968
+
+bps (128/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ x ~][~ ~ ~ ~][~ ~ x ~][~ ~ ~ ~]" # perc "bd",
+       perc "[~ ~ x ~][~ ~ ~ ~][x ~ ~ ~][x ~ x ~]" # perc "bd" 
+       ],
+    slowcat[
+      perc "[~ ~ ~ ~][~ ~ x ~][~ x ~ ~][~ ~ x ~]" # perc "sn",
+      perc "[~ x ~ ~][x x ~ x][~ x x x][~ x x x]" # perc "sn"
+      ],
+    perc $ preplace (1,1) ("x(8,16)" :: Pattern String) "ch"
+    ]

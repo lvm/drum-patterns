@@ -1,0 +1,18 @@
+-- Clyde Stubblefield
+-- Mother popcorn
+-- 1969
+
+bps (117/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ x ~][~ ~ ~ ~][~ ~ x ~][~ ~ ~ ~]" # perc "bd",
+       perc "[~ ~ x ~][~ ~ x ~][~ ~ x ~][~ ~ x ~]" # perc "bd" 
+       ],
+    slowcat[
+      perc "[~ ~ ~ ~][x ~ ~ x][~ x ~ ~][~ ~ x ~]" # perc "sn",
+      perc "[~ x ~ x][x x ~ x][~ x ~ x][x x ~ x]" # perc "sn"
+      ],
+    perc $ preplace (1,1) ("x(4,16)" :: Pattern String) "ch"
+    ]
