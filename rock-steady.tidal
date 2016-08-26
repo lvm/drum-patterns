@@ -1,0 +1,21 @@
+-- Bernard Purdie
+-- Rock Steady
+-- 1971
+
+bps (103/120)
+
+drums $
+  stack[
+    perc "[~ ~ x ~][x ~ ~ x][~ ~ x ~][x ~ ~ ~]" # perc "bd",
+    perc "[~ x ~ ~][x x ~ x][~ x ~ ~][x x ~ x]" # perc "sn",
+    slowcat[
+      perc "[~ x ~ ~][x ~ x ~][x ~ ~ ~][x ~ x ~]" # perc "ch",
+      perc "[x ~ ~ ~][x ~ x x][x ~ ~ ~][x ~ x x]" # perc "ch"
+      ],
+    slowcat[
+      perc "[~ ~ x ~][~ ~ ~ x][~ ~ x ~][~ ~ ~ x]" # perc "oh",
+      perc "[~ x ~ ~][~ ~ ~ ~][~ ~ x ~][~ ~ ~ ~]" # perc "oh"
+      ]
+    ]
+
+hush

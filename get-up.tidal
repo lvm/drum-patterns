@@ -1,0 +1,23 @@
+-- Jabo Starks
+-- Get up (I feel like being a) sex machine
+-- 1970
+
+bps (109/120)
+
+drums $
+  stack[
+    perc "[x ~ ~ ~][~ ~ ~ ~][~ ~ x ~][~ ~ x ~]" # perc "bd",
+    perc "[~ ~ ~ ~][x ~ x x][~ x ~ ~][x ~ ~ x]" # perc "sn",
+    slowcat[
+      stack[
+         perc "[x ~ ~ ~][x ~ x x][x ~ ~ ~][x ~ x x]" # perc "ch",
+         perc "[~ ~ x ~][~ ~ ~ ~][~ ~ x ~][~ ~ ~ ~]" # perc "oh"
+         ],
+      stack[
+         perc "[x ~ ~ ~][x ~ x x][x ~ ~ ~][x ~ x ~]" # perc "ch",
+         perc "[~ ~ x ~][~ ~ ~ ~][~ ~ x ~][~ ~ ~ ~]" # perc "oh"
+         ]
+      ]
+    ]
+
+hush

@@ -1,0 +1,21 @@
+-- Narada Michael Walden
+-- Come dancing
+-- 1976
+
+bps (96/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ ~ ~][~ ~ ~ x][x ~ ~ ~][~ ~ ~ x]" # perc "bd",
+       perc "[x ~ x ~][~ x ~ x][x ~ ~ ~][~ ~ ~ x]" # perc "bd" 
+    ],
+    slowcat[
+      perc "[~ x x ~][x x x ~][~ x x ~][x x x ~]" # perc "sn",
+      perc "[~ x ~ ~][x x ~ ~][~ x ~ ~][x x x ~]" # perc "sn"
+      ],
+    perc $ preplace (1,1) ("x(8,16)" :: Pattern String) "ch"
+    ]
+
+
+hush

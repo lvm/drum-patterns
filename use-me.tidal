@@ -1,0 +1,26 @@
+-- James Gadson
+-- Use me
+-- 1972
+
+bps (78/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ x ~][~ x ~ x][x ~ x x][~ x ~ x]" # perc "bd",
+       perc "[x ~ x ~][~ x ~ ~][x x ~ x][~ x ~ x]" # perc "bd" 
+    ],
+    slowcat[
+      perc "[~ ~ ~ ~][x ~ ~ x][~ x ~ ~][x ~ ~ x]" # perc "st",
+      perc "[~ ~ ~ ~][x ~ ~ x][~ ~ ~ ~][~ ~ ~ x]" # perc "st"
+      ] # nudge "0.01",
+    slowcat[
+      perc "x(16,16)" # perc "ch",
+      stack[
+        perc "[x x x x][x x x x][x ~ ~ ~][~ ~ ~ x]" # perc "ch",
+        perc "[~ ~ ~ ~][~ ~ ~ ~][~ x ~ x][~ x ~ ~]" # perc "oh"
+        ]
+      ]
+    ]
+
+hush

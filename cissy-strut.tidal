@@ -1,0 +1,15 @@
+-- Zigaboo Modeliste
+-- Cissy strut
+-- 1969
+
+bps (97/120)
+
+drums $
+  stack[
+    perc "[x ~ ~ x][~ x ~ ~][x x ~ x][~ x ~ ~]" # perc "bd",
+    perc "[x x x ~][x ~ x x][~ x x ~][x ~ x ~]" # perc "sn",
+    perc "[x x x ~][x ~ x x][~ x x ~][x ~ x ~]" # perc "ch"
+    ]
+
+
+hush

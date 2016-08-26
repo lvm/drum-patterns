@@ -1,0 +1,14 @@
+-- Bernard Purdie
+-- Haitian divorce
+-- 1976
+
+bps (74/120)
+
+drums $
+  stack[
+    perc "[~ ~ x ~][x ~ ~ ~][~ ~ x ~][x ~ ~ ~]" # perc "bd",
+    perc "[~ x ~ ~][x ~ x x][~ x ~ ~][x ~ x x]" # perc "sn",
+    perc "[x x ~ ~][x x x x][x x ~ ~][x x x x]" # perc "ch",
+    perc "[~ ~ x ~][~ ~ ~ ~][~ ~ x ~][~ ~ ~ ~]" # perc "oh"
+    ]
+

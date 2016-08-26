@@ -1,0 +1,15 @@
+-- Bernard Purdie
+-- Cow'd Bell
+-- 2000
+
+bps (94/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ ~ x][~ ~ x x][~ ~ x x][~ x ~ x]" # perc "bd",
+       perc "[x ~ x x][~ ~ ~ x][x ~ x x][~ x ~ x]" # perc "bd" 
+    ],
+    perc "[~ x ~ x][x x ~ x][~ x ~ x][x x ~ x]" # perc "sn",
+    perc "[x ~ x x] ! ! !" # perc "cow"
+    ]

@@ -1,0 +1,16 @@
+-- Melvin Bliss
+-- Synthetic substitution
+-- 1973
+
+bps (93/120)
+
+drums $
+  stack[
+    perc "[x ~ x ~][~ ~ ~ x][~ x x x][~ ~ ~ x]" # perc "bd",
+    perc "[~ ~ ~ ~][~ x ~ ~][~ ~ ~ ~][~ x ~ ~]" # perc "sn",
+    slowcat[
+      perc "[x ~ x ~][x ~ x ~][x ~ x ~][x ~ x ~]" # perc "ch",
+      perc "[x ~ ~ ~][x ~ x ~][x ~ x ~][x ~ x ~]" # perc "ch"
+      ],
+    perc "[~ ~ x/2 ~][~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~]" # perc "oh"
+    ]

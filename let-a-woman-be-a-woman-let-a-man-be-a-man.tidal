@@ -1,0 +1,19 @@
+-- James Gadson
+-- Let a woman be a woman, let a man be a man
+-- 1969
+
+bps (112/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[~ ~ x ~][~ ~ ~ ~][x ~ x x][~ x x ~]" # perc "bd",
+       perc "[~ ~ x ~][~ ~ ~ ~][~ ~ x ~][~ ~ x ~]" # perc "bd" 
+    ],
+    slowcat[
+      perc "[~ ~ ~ ~][x ~ ~ x][~ x x ~][x x ~ ~]" # perc "sn",
+      perc "[~ ~ ~ ~][x ~ ~ x][~ x ~ x][x ~ ~ ~]" # perc "sn"
+      ],
+    perc "[x ~ x ~][x ~ x ~][x ~ x ~][x ~ ~ ~]" # perc "ch",
+    perc "[~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~][~ ~ x ~]" # perc "oh"
+   ] 

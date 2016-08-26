@@ -1,0 +1,13 @@
+-- Zigaboo Modeliste
+-- Chug chug chug-a-lug
+-- 1972
+
+bps (89/120)
+
+drums $
+  stack[
+    perc "[x ~ ~ x][~ x ~ x][~ x ~ x][~ ~ x ~]" # perc "bd",
+    perc "[~ x x ~][x ~ ~ x][~ x x ~][x ~ ~ ~]" # perc "sn",
+    perc "[x ~ x ~][x x x ~][x x x ~][x ~ ~ ~]" # perc "ch",
+    perc "[~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~][~ ~ x ~]" # perc "oh"
+    ]

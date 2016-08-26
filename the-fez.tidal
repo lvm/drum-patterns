@@ -1,0 +1,18 @@
+-- Bernard Purdie
+-- The fez
+-- 1976
+
+bps (99/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ ~ ~][~ ~ ~ ~][x ~ ~ ~][~ ~ ~ ~]" # perc "bd",
+       perc "[x ~ ~ ~][~ ~ ~ ~][x ~ ~ x][x ~ ~ ~]" # perc "bd" 
+    ],
+    perc "[~ x ~ x][x x ~ x][~ x ~ x][x x ~ x]" # perc "sn",
+    perc "[~ ~ x ~][~ ~ x ~][~ ~ x ~][~ ~ x ~]" # perc "ch"
+    ]
+
+
+hush

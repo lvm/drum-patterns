@@ -1,0 +1,12 @@
+-- James Gadson
+-- Books of moses
+-- 2010
+
+bps (91/120)
+
+drums $
+  stack[
+    perc "[x ~ ~ ~][x ~ ~ ~][x ~ ~ x/2][~ ~ ~ ~]" # perc "bd",
+    perc "[~ ~ ~ ~][x ~ ~ ~][~ ~ ~ ~][x ~ ~ ~]" # perc "sn",
+    perc $ preplace (1,1) ("x(8,16)" :: Pattern String) "ch"
+    ]

@@ -1,0 +1,23 @@
+-- Tony Allen
+-- Expensive shit
+-- 1975
+
+bps (126/120)
+
+drums $
+  stack[
+    perc "[~ ~ ~ x][~ ~ x ~][~ ~ ~ ~][~ ~ x ~]" # perc "bd",
+    perc "[x x ~ x][~ x ~ ~][x x ~ ~][x x ~ ~]" # perc "sn",
+    slowcat[
+      stack[
+         perc "[x ~ x x][x ~ x x][x ~ x ~][x ~ x x]" # perc "ch",
+         perc "[~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ x][~ ~ ~ ~]" # perc "oh"
+         ],
+      stack[
+         perc "[x ~ x ~][x ~ x x][x ~ x x][x ~ x x]" # perc "ch",
+         perc "[~ ~ ~ x][~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~]" # perc "oh"
+         ]
+      ]
+    ]
+
+hush

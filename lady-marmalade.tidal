@@ -1,0 +1,22 @@
+-- Herman "Roescoe" Ernest III
+-- Lady marmalade
+-- 1974
+
+bps (114/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ ~ ~][~ ~ x ~][x ~ ~ ~][~ ~ x ~]" # perc "bd",
+       perc "[~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~][x ~ ~ ~]" # perc "bd" 
+    ],
+    slowcat[
+      perc "[~ ~ ~ ~][x ~ ~ ~][~ ~ ~ ~][x ~ ~ ~]" # perc "sn",
+      perc "[~ ~ ~ ~][x ~ ~ ~][x ~ ~ ~][~ ~ ~ ~]" # perc "sn"
+      ],
+    perc "[x ~ x ~][x ~ x ~][x ~ x ~][x ~ x ~]" # perc "ch",
+    perc "[~ ~ ~ ~][~ ~ ~ ~][~ ~ x/2 ~][~ ~ ~ ~]" # perc "oh"
+    ]
+
+
+hush

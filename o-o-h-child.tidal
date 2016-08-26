@@ -1,0 +1,21 @@
+-- Bernard Purdie
+-- O-o-h child
+-- 1970
+
+bps (89/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ x ~][~ ~ ~ ~][x ~ x x][~ ~ ~ ~]" # perc "bd",
+       perc "[x ~ x x][~ ~ ~ ~][x ~ x x][~ ~ ~ ~]" # perc "bd" 
+    ],
+    slowcat[
+      perc "[~ x ~ x][x x ~ x][~ x ~ x][x x ~ x]" # perc "sn",
+      perc "[~ x ~ x][x x ~ x][~ x ~ ~][x ~ x ~]" # perc "sn"
+      ],
+    perc "[x x ~ ~][x x ~ ~][x x ~ ~][x x ~ ~]" # perc "ch",
+    perc "[~ ~ x ~][~ ~ x ~][~ ~ x ~][~ ~ x ~]" # perc "oh"
+    ]
+
+hush
