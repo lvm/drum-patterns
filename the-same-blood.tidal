@@ -1,0 +1,12 @@
+-- Tony Allen
+-- The same blood
+-- 1999
+
+bps (120/120)
+
+drums $
+  stack[
+    perc "[x x ~ ~][~ ~ ~ ~][x x ~ ~][~ ~ ~ ~]" # perc "bd",
+    perc "[~ ~ ~ x][~ x x ~][~ ~ ~ ~][x x x ~]" # perc "sn",
+    perc "[x ~ x ~][x ~ x x][x ~ x x][x ~ x x]" # perc "ch"
+    ]

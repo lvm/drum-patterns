@@ -1,0 +1,19 @@
+-- Zigaboo Modeliste
+-- Look-ka py py
+-- 1969
+
+bps (88/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ ~ x][~ x ~ ~][~ ~ x ~][~ x x ~]",
+       perc "[x ~ ~ x][~ x ~ x][x ~ x ~][~ x x ~]"
+    ] # perc "bd",
+    slowcat[
+      perc "[~ x ~ ~][x ~ ~ x][x ~ x ~][~ ~ x ~]",
+      perc "[~ x ~ ~][x x ~ x][x ~ x ~][~ ~ x ~]"
+      ] # perc "sn",
+    perc "[x ~ x ~][x ~ x ~][x ~ ~ ~][x ~ x ~]" # perc "ch",
+    perc "[~ ~ ~ ~][~ ~ ~ ~][~ ~ x ~][~ ~ ~ ~]" # perc "oh"
+    ]
