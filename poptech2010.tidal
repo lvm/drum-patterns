@@ -1,0 +1,22 @@
+-- Reggie Watts
+-- Poptech2010
+-- 2010
+
+bps (84/120)
+
+drums $
+  stack[
+    slowcat[
+    perc "[x ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~]",
+    perc "[~ x ~ ~][~ ~ ~ ~][~ ~ ~ ~][~ x x x]"
+    ] # perc "bd",
+    perc "[~ ~ ~ ~][x ~ ~ ~][~ ~ ~ ~][x ~ ~ ~]" # perc "sn",
+    slowcat[
+      perc "[~ ~ ~ ~][~ ~ ~ ~][x ~ ~ ~][~ ~ ~ ~]",
+      perc "[x ~ ~ ~][~ ~ ~ ~][x ~ ~ ~][~ ~ ~ ~]"
+      ] # perc "ch",
+    slowcat[
+      perc "[x ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~]",
+      perc "[~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~]"
+      ] # perc "oh"
+    ]

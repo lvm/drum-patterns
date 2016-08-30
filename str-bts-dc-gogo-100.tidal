@@ -1,0 +1,13 @@
+-- Unknown Drummer
+-- Str bts dc gogo 100
+-- n/a
+
+bps (101/120)
+
+drums $
+  stack[
+    perc "[x ~ ~ x][~ ~ x ~][~ ~ x ~][~ ~ ~ ~]" # perc "bd",
+    perc "[~ x ~ ~][x ~ ~ x][~ ~ ~ ~][x ~ ~ ~]" # perc "sn",
+    perc "[~ x x ~][x x ~ x][~ ~ ~ ~][~ x x ~]" # perc "ch",
+    perc "[~ ~ ~ ~][~ ~ ~ ~][x ~ ~ ~][~ ~ ~ ~]" # perc "oh"
+    ]

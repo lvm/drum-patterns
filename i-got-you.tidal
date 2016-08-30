@@ -1,0 +1,16 @@
+-- Melvin Parker
+-- I got you
+-- 1965
+
+bps (145/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ ~ ~][~ ~ ~ ~][~ ~ x ~][~ ~ ~ ~]",
+       perc "[~ ~ x ~][~ ~ x ~][~ ~ x ~][~ ~ x ~]"
+    ] # perc "bd",
+    perc "[~ ~ ~ ~][x ~ ~ ~][~ ~ ~ ~][x ~ ~ ~]" # perc "sn",
+    perc "[x ~ ~ ~][x ~ x ~][x ~ ~ ~][x ~ x ~]" # perc "ch",
+    perc "[~ ~ x ~][~ ~ ~ ~][~ ~ x ~][~ ~ ~ ~]" # perc "oh"
+    ]
