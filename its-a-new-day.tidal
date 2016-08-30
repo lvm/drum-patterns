@@ -1,0 +1,12 @@
+-- George Bragg
+-- It's a new day
+-- 1973
+
+bps (96/120)
+
+drums $
+  stack[
+    perc "[x ~ x ~][~ ~ ~ ~][~ ~ x x][~ ~ ~ x]" # perc "bd",
+    perc "[~ ~ ~ ~][x ~ ~ ~][~ ~ ~ ~][x ~ ~ ~]"  # perc "sn",
+    perc $ preplace (1,1) ("x(8,16)" :: Pattern String) "ch"
+    ]

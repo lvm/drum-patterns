@@ -5,13 +5,13 @@ Hopefully, these should serve more coders to create even *funkyer* tracks.
 
 ## Tracks
 
-[ ] Stevie Wonder, "Superstition" (1972)
-[ ] George Bragg, "It’s A New Day" (1973)
-[ ] Zigaboo Modeliste, "Cissy Strut (b-section)" (1969)
-[ ] James Black, "Hook and Sling" (1969)
-[ ] James Gadson, "Kissing My Love (Beat Club)" (1972)
-[ ] ?uestlove, "Lady" (2012)
-[ ] Stevie Wonder, "Knocks Me Off My Feet" (1976)
+[x] Stevie Wonder, "Superstition" (1972)
+[x] George Bragg, "It’s A New Day" (1973)
+[x] Zigaboo Modeliste, "Cissy Strut (b-section)" (1969)
+[x] James Black, "Hook and Sling" (1969)
+[x] James Gadson, "Kissing My Love (Beat Club)" (1972)
+[x] ?uestlove, "Lady" (2012)
+[x] Stevie Wonder, "Knocks Me Off My Feet" (1976)
 [x] Herb Lovelle, "The Thrill Is Gone" (1969)
 [x] Reggie Watts, "PopTech2010" (2010)
 [x] James Gadson, "Kissing My Love" (1972)

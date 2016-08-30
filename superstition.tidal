@@ -1,0 +1,12 @@
+-- Stevie Wonder
+-- Superstition
+-- 1972
+
+bps (98/120)
+
+drums $
+  stack[
+    perc "[x ~ ~ ~][x ~ ~ ~][x ~ ~ ~][x ~ ~ ~]" # perc "bd",
+    perc "[~ ~ ~ ~][x ~ ~ ~][~ ~ ~ ~][x ~ ~ ~]"  # perc "sn",
+    perc "[x ~ x ~][x ~ x x][x x x ~][x ~ x x]"  # perc "ch"
+    ]

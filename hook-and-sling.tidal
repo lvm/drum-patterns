@@ -1,0 +1,26 @@
+-- James Black
+-- Hook and sling
+-- 1969
+
+bps (101/120)
+
+drums $
+  stack[
+    slowcat[
+       perc "[x ~ x ~][~ ~ ~ ~][~ x ~ ~][~ x x ~]",
+       perc "[~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~][~ x ~ ~]"
+    ] # perc "bd",
+    slowcat[
+      perc "[~ ~ ~ ~][x ~ x x][~ ~ x ~][x ~ ~ ~]",
+      perc "[x ~ ~ ~][x x ~ x][~ ~ x x][~ ~ x x]"
+      ] # perc "sn",
+    slowcat[
+      perc "[x ~ x x][~ x ~ ~][x x ~ x][~ ~ ~ ~]",
+      perc "[x x ~ x][~ ~ x ~][x x ~ ~][x ~ x ~]"
+      ] # perc "ch",
+    slowcat[
+      perc "[~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~][~ ~ x ~]",
+      perc "[~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~][~ ~ ~ ~]"
+      ] # perc "oh"
+    ]
+  # velocity "0.25"
