@@ -40,7 +40,7 @@ Hopefully, these should serve more coders to create even *funkyer* tracks.
 - [x] [Roger Hawkins, "Respect Yourself" (1971)](respect-yourself.tidal)  
 - [x] [James Gadson, "Let a Woman Be a Woman, Let a Man Be a Man" (1969)](let-a-woman-be-a-woman-let-a-man-be-a-man.tidal)  
 - [x] [James Gadson, "Express Yourself" (1970)](express-yourself.tidal)  
-- [x] [James Gadson, "Books Of Moses" (2010)](book-of-moses.tidal)  
+- [x] [James Gadson, "Books Of Moses" (2010)](books-of-moses.tidal)  
 - [x] [Zigaboo Modeliste, "Cissy Strut (second A section)" (1969)](cissy-strut.tidal)  
 - [x] [Clyde Stubblefield, "Mother Popcorn" (1969)](mother-popcorn.tidal)  
 - [x] [The Unknown Drummer, "Str Bts DC Gogo 100" (n/a)](str-bts-dc-gogo-100.tidal)  
