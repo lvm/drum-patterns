@@ -14,4 +14,4 @@ drums $
     perc $ preplace (1,1) ("x(8,16)" :: Pattern String) "ch"
     ]
 
-hush
+
